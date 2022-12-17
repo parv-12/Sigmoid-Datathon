@@ -11,3 +11,7 @@ Predict emotions from posts, reviews, blogs, or tweets that focus on a product/ 
 
 Dataset description:
 The dataset contains the following files: train.csv: 7724x14 test.csv: 400x2 sample_submission.csv: 10x14
+
+The columns provided in the dataset are as follows- 
+![](https://github.com/architmang/sigmoid-datathon/blob/main/column%20description.png)
+We achieved an F1-score of 0.5945 using an ensemble of Roberta models for anger, neutral and other classes
