@@ -1,5 +1,5 @@
 # Sigmoid-Datathon
-This repository contains our approaches on the Emotion Classification Task in the Sigmoid Data Science Hackathon 
+This repository contains our approaches on the Emotion Classification Task in the [Sigmoid Data Science Hackathon](https://www.hackerearth.com/challenges/competitive/sigmoid-data-science-hackathon-machine-learning-challenge/) 
 
 Contributors - Ramashish Gupta, Archit Mangrulkar, Parv Jain, Harsh Khandelwal  
 
