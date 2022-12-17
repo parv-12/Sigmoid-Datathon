@@ -5,7 +5,7 @@ Contributors - Ramashish Gupta, Archit Mangrulkar, Parv Jain, Harsh Khandelwal
 
 The focus of sentiment analysis is to derive information from human language for interpreting views and feelings to assign polarities like positive, negative, or neutral. However, emotion detection aims at finding out more specific sentiment tones such as happiness, sadness, depression, anxiety, etc. Emotion detection can be applied to different types of unstructured data with text being one of such types of data.
 
-#Model files here -> 
+## Model files here -> 
 Task:
 Predict emotions from posts, reviews, blogs, or tweets that focus on a product/ service experience. Each query of the test data can have one or all of the emotions tagged to it.
 
