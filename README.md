@@ -14,4 +14,5 @@ The dataset contains the following files: train.csv: 7724x14 test.csv: 400x2 sam
 
 The columns provided in the dataset are as follows- 
 ![](https://github.com/architmang/sigmoid-datathon/blob/main/column%20description.png)
+
 We achieved an F1-score of 0.5945 using an ensemble of Roberta models for anger, neutral and other classes
